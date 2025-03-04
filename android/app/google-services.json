@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "873647075152",
+    "project_id": "restaurant-39e56",
+    "storage_bucket": "restaurant-39e56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873647075152:android:93983b420b4f7c83704655",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873647075152-tdqgi7ul5denngnnsta79ev14jm2em6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restaurant_user",
+            "certificate_hash": "c925761b84163be424f08b74ceb834d95826016f"
+          }
+        },
+        {
+          "client_id": "873647075152-nvpu5g94kfb439u0o5p1ntpr7kqjcm3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRqHMILyGRW7q2wkG72_vou3ZGa2vPxmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873647075152-nvpu5g94kfb439u0o5p1ntpr7kqjcm3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873647075152:android:f447b979a58f395f704655",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_waiter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873647075152-gb808sdmnkmnj99uot9spj4e9gp4besi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restaurant_waiter",
+            "certificate_hash": "c925761b84163be424f08b74ceb834d95826016f"
+          }
+        },
+        {
+          "client_id": "873647075152-hl15d8tb6soegudg98vrolcgtdno7mq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restaurant_waiter",
+            "certificate_hash": "8432f7c1571b6af751d64536f5e01e0fff2f837d"
+          }
+        },
+        {
+          "client_id": "873647075152-nvpu5g94kfb439u0o5p1ntpr7kqjcm3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRqHMILyGRW7q2wkG72_vou3ZGa2vPxmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873647075152-nvpu5g94kfb439u0o5p1ntpr7kqjcm3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
